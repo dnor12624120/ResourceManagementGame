@@ -1,0 +1,4 @@
+build/
+test/
+src/frontend/node_modules/
+truffle-config.js
