@@ -1,0 +1,25 @@
+td, tr, img {
+  padding: 0px;
+  margin: 0px;
+  border: none;
+  line-height: 0px;
+}
+
+table {
+  margin-left: 35%;
+  border-collapse: collapse;
+  border-spacing: 0;
+  border: 0;
+  float: right;
+}
+
+#plot {
+  float: left;
+  margin-left: 15%;
+}
+
+#tileDetail {
+  float: left;
+  padding-left: 10%;
+  width: 30%;
+}
